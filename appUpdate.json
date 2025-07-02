@@ -1,0 +1,15 @@
+{
+"ios_minimum_version": "1.0.8",
+"android_minimum_version": "1.0.8",
+"latest_android_version": "1.0.8",
+"latest_ios_version": "1.0.8",
+"extra": {
+"force_update": true,
+"release_notes": {
+"android": "Bug fixes and performance improvements.",
+"ios": "New features added and minor bug fixes."
+},
+"maintenance_mode": false,
+"support_url": "https://example.com/support"
+}
+}
