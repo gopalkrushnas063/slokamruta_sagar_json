@@ -1,15 +1,15 @@
 {
-"ios_minimum_version": "1.0.0",
-"android_minimum_version": "1.0.0",
-"latest_android_version": "1.0.0",
-"latest_ios_version": "1.0.0",
-"extra": {
-"force_update": false,
-"release_notes": {
-"android": "Bug fixes and performance improvements.",
-"ios": "New features added and minor bug fixes."
-},
-"maintenance_mode": false,
-"support_url": "https://example.com/support"
-}
+  "ios_minimum_version": "1.0.0",
+  "android_minimum_version": "1.0.0",
+  "latest_ios_version": "1.0.0", 
+  "latest_android_version": "1.0.0",
+  "extra": {
+    "force_update": false,
+    "release_notes": {
+      "android": "Bug fixes",
+      "ios": "Bug fixes"
+    },
+    "maintenance_mode": false,
+    "support_url": "https://example.com/support"
+  }
 }
