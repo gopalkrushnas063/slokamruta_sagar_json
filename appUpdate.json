@@ -4,7 +4,7 @@
 "latest_android_version": "1.0.1",
 "latest_ios_version": "1.0.1",
 "extra": {
-"force_update": true,
+"force_update": false,
 "release_notes": {
 "android": "Bug fixes and performance improvements.",
 "ios": "New features added and minor bug fixes."
