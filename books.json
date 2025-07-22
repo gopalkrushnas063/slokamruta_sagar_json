@@ -22,28 +22,28 @@
     },
     "content": {
       "en": {
-        "description": "The Bhagavad Gita is a 700-verse Hindu scripture that is part of the epic Mahabharata. It is a sacred text of the Hindu religion. The Gita is set in a narrative framework of a dialogue between Pandava prince Arjuna and his guide and charioteer Krishna.",
+        "description": "The Bhagavad Gita is a 700-verse Hindu scripture that is part of the epic Mahabharata. It is a sacred text of the Hindu religion.",
         "chapters": "18 Chapters",
         "verses": "700 Verses",
         "significance": "Considered one of the most important texts in Hinduism"
       },
       "hi": {
-        "description": "भगवद गीता महाभारत का एक हिस्सा है जिसमें 700 श्लोक हैं। यह हिंदू धर्म का एक पवित्र ग्रंथ है। गीता पांडव राजकुमार अर्जुन और उनके मार्गदर्शक कृष्ण के बीच संवाद के रूप में लिखी गई है।",
+        "description": "भगवद गीता महाभारत का एक हिस्सा है जिसमें 700 श्लोक हैं। यह हिंदू धर्म का एक पवित्र ग्रंथ है।",
         "chapters": "18 अध्याय",
         "verses": "700 श्लोक",
         "significance": "हिंदू धर्म के सबसे महत्वपूर्ण ग्रंथों में से एक माना जाता है"
       },
       "or": {
-        "description": "ଭଗବଦ୍ ଗୀତା ହେଉଛି ମହାଭାରତର ଏକ ଅଂଶ ଯାହାରେ ୭୦୦ ଶ୍ଳୋକ ଅଛି। ଏହା ହିନ୍ଦୁ ଧର୍ମର ଏକ ପବିତ୍ର ଗ୍ରନ୍ଥ। ଗୀତା ପାଣ୍ଡବ ରାଜକୁମାର ଅର୍ଜୁନ ଏବଂ ତାଙ୍କ ମାର୍ଗଦର୍ଶକ କୃଷ୍ଣଙ୍କ ମଧ୍ୟରେ ସଂଳାପ ରୂପେ ରଚିତ ହୋଇଛି।",
+        "description": "ଭଗବଦ୍ ଗୀତା ହେଉଛି ମହାଭାରତର ଏକ ଅଂଶ ଯାହାରେ ୭୦୦ ଶ୍ଳୋକ ଅଛି। ଏହା ହିନ୍ଦୁ ଧର୍ମର ଏକ ପବିତ୍ର ଗ୍ରନ୍ଥ।",
         "chapters": "18 ଅଧ୍ୟାୟ",
         "verses": "700 ଶ୍ଳୋକ",
-        "significance": "ହିନ୍ଦୁ ଧର୍ମର ସବୁଠାରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଗ୍ରନ୍ଥ ମଧ୍ୟରୁ ଗୋଟିଏ ବୋଲି ବିବେଚନା କରାଯାଏ"
+        "significance": "ହିନ୍ଦୁ ଧର୍ମର ସବୁଠାରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଗ୍ରନ୍ଥ ମଧ୍ୟରୁ ଗୋଟିଏ"
       },
       "bn": {
-        "description": "ভগবদ গীতা মহাভারতের একটি অংশ যাতে ৭০০টি শ্লোক রয়েছে। এটি হিন্দু ধর্মের একটি পবিত্র গ্রন্থ। গীতা পাণ্ডব রাজকুমার অর্জুন এবং তার পথপ্রদর্শক কৃষ্ণের মধ্যে সংলাপের আকারে রচিত হয়েছে।",
+        "description": "ভগবদ গীতা মহাভারতের একটি অংশ যাতে ৭০০টি শ্লোক রয়েছে। এটি হিন্দু ধর্মের একটি পবিত্র গ্রন্থ।",
         "chapters": "১৮ অধ্যায়",
         "verses": "৭০০ শ্লোক",
-        "significance": "হিন্দু ধর্মের সবচেয়ে গুরুত্বপূর্ণ গ্রন্থগুলির মধ্যে একটি হিসাবে বিবেচিত"
+        "significance": "হিন্দু ধর্মের সবচেয়ে গুরুত্বপূর্ণ গ্রন্থগুলির মধ্যে একটি"
       }
     },
     "videoLinks": {
@@ -51,6 +51,330 @@
       "hi": "https://www.youtube.com/watch?v=5ltxGXB6XkE",
       "or": "https://youtu.be/McUX0lqVRP0?si=XkwoA3i2DmQM152p",
       "bn": "https://youtu.be/VqkvvrD5L6k?si=KxJX9WsAhlRbkSkm"
+    }
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Mahabharat",
+      "hi": "महाभारत",
+      "or": "ମହାଭାରତ",
+      "bn": "মহাভারত"
+    },
+    "author": {
+      "en": "Vedavyasa",
+      "hi": "वेदव्यास",
+      "or": "ବେଦବ୍ୟାସ",
+      "bn": "বেদব্যাস"
+    },
+    "cover": "mahabharat.jpeg",
+    "category": {
+      "en": "Epic",
+      "hi": "महाकाव्य",
+      "or": "ମହାକାବ୍ୟ",
+      "bn": "মহাকাব্য"
+    },
+    "content": {
+      "en": {
+        "description": "Mahabharat is one of the two major Sanskrit epics of ancient India, describing the Kurukshetra war.",
+        "chapters": "18 Parvas",
+        "verses": "100,000+ Verses",
+        "significance": "Longest epic poem in the world"
+      },
+      "hi": {
+        "description": "महाभारत भारत का एक प्रमुख संस्कृत महाकाव्य है जो कौरवों और पांडवों के युद्ध का वर्णन करता है।",
+        "chapters": "18 पर्व",
+        "verses": "1,00,000+ श्लोक",
+        "significance": "दुनिया का सबसे लंबा महाकाव्य"
+      },
+      "or": {
+        "description": "ମହାଭାରତ ହେଉଛି ଭାରତର ଏକ ପ୍ରାଚୀନ ସଂସ୍କୃତ ମହାକାବ୍ୟ ଯାହା କୁରୁକ୍ଷେତ୍ର ଯୁଦ୍ଧ ବିବରଣ କରେ।",
+        "chapters": "18 ପର୍ବ",
+        "verses": "1,00,000+ ଶ୍ଳୋକ",
+        "significance": "ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ମହାକାବ୍ୟ"
+      },
+      "bn": {
+        "description": "মহাভারত হল ভারতের একটি প্রাচীন সংস্কৃত মহাকাব্য যা কুরুক্ষেত্র যুদ্ধ বর্ণনা করে।",
+        "chapters": "১৮ পর্ব",
+        "verses": "১,০০,০০০+ শ্লোক",
+        "significance": "বিশ্বের দীর্ঘতম মহাকাব্য"
+      }
+    },
+    "videoLinks": {
+      "en": "https://youtu.be/n0X6nukfE90",
+      "hi": "https://youtu.be/ZqU7WovL04M",
+      "or": "https://youtu.be/FePZw-0VQhA",
+      "bn": "https://youtu.be/Fk_IXZo9Wrs"
+    }
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Ramayan",
+      "hi": "रामायण",
+      "or": "ରାମାୟଣ",
+      "bn": "রামায়ণ"
+    },
+    "author": {
+      "en": "Valmiki",
+      "hi": "वाल्मीकि",
+      "or": "ବାଲ୍ମିକି",
+      "bn": "বাল্মীকি"
+    },
+    "cover": "ramayan.jpeg",
+    "category": {
+      "en": "Epic",
+      "hi": "महाकाव्य",
+      "or": "ମହାକାବ୍ୟ",
+      "bn": "মহাকাব্য"
+    },
+    "content": {
+      "en": {
+        "description": "Ramayan is an ancient Indian epic about the life of Lord Rama, his exile, Sita's abduction, and the battle with Ravana.",
+        "chapters": "7 Kandas",
+        "verses": "24,000 Verses",
+        "significance": "Illustrates ideals of dharma and devotion"
+      },
+      "hi": {
+        "description": "रामायण भगवान राम के जीवन, वनवास, सीता हरण और रावण से युद्ध की कहानी है।",
+        "chapters": "7 कांड",
+        "verses": "24,000 श्लोक",
+        "significance": "धर्म और भक्ति के आदर्शों को दर्शाता है"
+      },
+      "or": {
+        "description": "ରାମାୟଣ ଭଗବାନ ରାମଙ୍କ ଜୀବନ, ବନବାସ, ସୀତା ହରଣ ଏବଂ ରାବଣ ସହ ଯୁଦ୍ଧ ବିଷୟରେ ଅଟୁଟ କାହାଣୀ ଅଟୁଟ କାହାଣୀ।",
+        "chapters": "7 କାଣ୍ଡ",
+        "verses": "24,000 ଶ୍ଳୋକ",
+        "significance": "ଧର୍ମ ଓ ଭକ୍ତିର ଆଦର୍ଶ ଦେଖାଏ"
+      },
+      "bn": {
+        "description": "রামায়ণ হল রামচন্দ্রের জীবন, বনবাস, সীতাহরণ এবং রাবণের সাথে যুদ্ধের কাহিনী।",
+        "chapters": "৭ কাণ্ড",
+        "verses": "২৪,০০০ শ্লোক",
+        "significance": "ধর্ম ও ভক্তির আদর্শ তুলে ধরে"
+      }
+    },
+    "videoLinks": {
+      "en": "https://youtu.be/1iKia2u8E8g",
+      "hi": "https://youtu.be/2qmmE1_LtCI",
+      "or": "https://youtu.be/d9TLIvZ-GvU",
+      "bn": "https://youtu.be/ZrMOCiLqg7U"
+    }
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Lav Kush Janma",
+      "hi": "लव कुश जन्म",
+      "or": "ଲବ କୁଶ ଜନ୍ମ",
+      "bn": "লব কুশ জন্ম"
+    },
+    "author": {
+      "en": "Valmiki",
+      "hi": "वाल्मीकि",
+      "or": "ବାଲ୍ମିକି",
+      "bn": "বাল্মীকি"
+    },
+    "cover": "lav-kush.jpeg",
+    "category": {
+      "en": "Stories",
+      "hi": "कहानियाँ",
+      "or": "କାହାଣୀ",
+      "bn": "গল্প"
+    },
+    "content": {
+      "en": {
+        "description": "The story of the birth of Lav and Kush, the sons of Lord Rama and Sita, and their life in Valmiki's ashram.",
+        "chapters": "1",
+        "verses": "Narrative",
+        "significance": "Highlights values of courage and righteousness"
+      },
+      "hi": {
+        "description": "लव और कुश भगवान राम और सीता के पुत्र थे। उनकी कहानी वाल्मीकि के आश्रम में जन्म और पालन-पोषण से जुड़ी है।",
+        "chapters": "1",
+        "verses": "कथा",
+        "significance": "साहस और धर्म के मूल्य दर्शाता है"
+      },
+      "or": {
+        "description": "ଲବ ଓ କୁଶ ହେଉଛନ୍ତି ରାମ ଓ ସୀତାଙ୍କ ପୁତ୍ର। ଏହି କାହାଣୀ ତାଙ୍କ ବାଲ୍ମିକି ଆଶ୍ରମର ଜୀବନ ସହ ସମ୍ପୃକ୍ତ।",
+        "chapters": "1",
+        "verses": "କାହାଣୀ",
+        "significance": "ସାହସ ଓ ଧର୍ମର ଶିକ୍ଷା ଦେଉଛି"
+      },
+      "bn": {
+        "description": "লব ও কুশ হলেন রাম ও সীতার পুত্র। তাদের জন্ম ও বাল্মীকি আশ্রমে জীবন নিয়ে এই গল্প।",
+        "chapters": "১",
+        "verses": "গল্প",
+        "significance": "সাহস ও ধর্মের শিক্ষা দেয়"
+      }
+    },
+    "videoLinks": {
+      "en": "https://youtu.be/Y7jD0O96qtc",
+      "hi": "https://youtu.be/TUCuVb_9DPM",
+      "or": "https://youtu.be/J7ftYPwuUDE",
+      "bn": "https://youtu.be/cxi4dFfZhdQ"
+    }
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Sundarkand",
+      "hi": "सुंदरकांड",
+      "or": "ସୁନ୍ଦରକାଣ୍ଡ",
+      "bn": "সুন্দরকাণ্ড"
+    },
+    "author": {
+      "en": "Tulsidas",
+      "hi": "तुलसीदास",
+      "or": "ତୁଳସୀଦାସ",
+      "bn": "তুলসীদাস"
+    },
+    "cover": "sundarkand.jpeg",
+    "category": {
+      "en": "Devotional",
+      "hi": "भक्ति",
+      "or": "ଭକ୍ତି",
+      "bn": "ভক্তি"
+    },
+    "content": {
+      "en": {
+        "description": "Sundarkand narrates the heroic exploits of Hanuman in Lanka. It is the 5th chapter of the Ramcharitmanas.",
+        "chapters": "1",
+        "verses": "Narrative",
+        "significance": "Known for its spiritual power and healing effects"
+      },
+      "hi": {
+        "description": "सुंदरकांड हनुमान जी के लंका में वीरता की कथा है। यह रामचरितमानस का पाँचवाँ अध्याय है।",
+        "chapters": "1",
+        "verses": "कथा",
+        "significance": "आध्यात्मिक शक्ति और शांति के लिए प्रसिद्ध"
+      },
+      "or": {
+        "description": "ସୁନ୍ଦରକାଣ୍ଡ ହେଉଛି ହନୁମାନଙ୍କ ଲଙ୍କାରେ ବୀରତା ବିବରଣ। ଏହା ରାମଚରିତମାନସର ପଞ୍ଚମ ଅଧ୍ୟାୟ।",
+        "chapters": "1",
+        "verses": "କାହାଣୀ",
+        "significance": "ଆଧ୍ୟାତ୍ମିକ ଶକ୍ତି ଓ ଶାନ୍ତି ପାଇଁ ପ୍ରସିଦ୍ଧ"
+      },
+      "bn": {
+        "description": "সুন্দরকাণ্ড হল হনুমানের লঙ্কায় বীরত্বের কাহিনী। এটি রামচরিতমানসের পঞ্চম অধ্যায়।",
+        "chapters": "১",
+        "verses": "গল্প",
+        "significance": "আধ্যাত্মিক শক্তি ও শান্তির জন্য খ্যাত"
+      }
+    },
+    "videoLinks": {
+      "en": "https://youtu.be/vsOE2EvbqSc",
+      "hi": "https://youtu.be/svS9mQX-MO0",
+      "or": "https://youtu.be/_iyOtMr0rQo",
+      "bn": "https://youtu.be/PR_nY4wbYcs"
+    }
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Hanuman Janm",
+      "hi": "हनुमान जन्म",
+      "or": "ହନୁମାନ ଜନ୍ମ",
+      "bn": "হনুমান জন্ম"
+    },
+    "author": {
+      "en": "Puranas",
+      "hi": "पुराण",
+      "or": "ପୁରାଣ",
+      "bn": "পুরাণ"
+    },
+    "cover": "hanuman-janm.jpeg",
+    "category": {
+      "en": "Mythology",
+      "hi": "पुराण",
+      "or": "ପୁରାଣ",
+      "bn": "পুরাণ"
+    },
+    "content": {
+      "en": {
+        "description": "The story of Hanuman's miraculous birth, blessed by Vayu and Anjana.",
+        "chapters": "1",
+        "verses": "Narrative",
+        "significance": "Symbol of devotion, strength, and courage"
+      },
+      "hi": {
+        "description": "हनुमान जी का जन्म वायु देव और अंजना माता के आशीर्वाद से हुआ था।",
+        "chapters": "1",
+        "verses": "कथा",
+        "significance": "भक्ति, शक्ति और साहस का प्रतीक"
+      },
+      "or": {
+        "description": "ହନୁମାନଙ୍କ ଜନ୍ମ ବାୟୁ ଦେବ ଓ ଅଞ୍ଜନାଙ୍କ ଆଶୀର୍ବାଦରେ ହୋଇଥିଲା।",
+        "chapters": "1",
+        "verses": "କାହାଣୀ",
+        "significance": "ଭକ୍ତି, ଶକ୍ତି ଓ ସାହସର ପ୍ରତୀକ"
+      },
+      "bn": {
+        "description": "হনুমানের জন্ম বায়ু ও অঞ্জনা দেবীর আশীর্বাদে হয়।",
+        "chapters": "১",
+        "verses": "গল্প",
+        "significance": "ভক্তি, শক্তি ও সাহসের প্রতীক"
+      }
+    },
+    "videoLinks": {
+      "en": "https://youtu.be/yALzXQ33vkg",
+      "hi": "https://youtu.be/Nt2eWr2R8Jk",
+      "or": "https://youtu.be/lUkeZyzRfvc",
+      "bn": "https://youtu.be/bDvsKUNZDDo"
+    }
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Dwapar Yug",
+      "hi": "द्वापर युग",
+      "or": "ଦ୍ୱାପର ଯୁଗ",
+      "bn": "দ্বাপর যুগ"
+    },
+    "author": {
+      "en": "Puranas",
+      "hi": "पुराण",
+      "or": "ପୁରାଣ",
+      "bn": "পুরাণ"
+    },
+    "cover": "dwapar-yug.jpeg",
+    "category": {
+      "en": "Yugas",
+      "hi": "युग",
+      "or": "ଯୁଗ",
+      "bn": "যুগ"
+    },
+    "content": {
+      "en": {
+        "description": "Dwapar Yug is the third of the four Yugas in Hindu cosmology. It saw the events of Mahabharata.",
+        "chapters": "1",
+        "verses": "Summary",
+        "significance": "Transition phase before Kali Yuga"
+      },
+      "hi": {
+        "description": "द्वापर युग चार युगों में से तीसरा युग है, जिसमें महाभारत की घटनाएँ हुईं।",
+        "chapters": "1",
+        "verses": "सारांश",
+        "significance": "कलियुग से पहले का संक्रमण काल"
+      },
+      "or": {
+        "description": "ଦ୍ୱାପର ଯୁଗ ହେଉଛି ଚାରିଟି ଯୁଗ ମଧ୍ୟରେ ତୃତୀୟ ଯୁଗ, ଏହି ଯୁଗରେ ମହାଭାରତ ଘଟିଥିଲା।",
+        "chapters": "1",
+        "verses": "ସାରାଂଶ",
+        "significance": "କଳିଯୁଗ ପୂର୍ବର ଅବସ୍ଥା"
+      },
+      "bn": {
+        "description": "দ্বাপর যুগ হল হিন্দু ধর্মে চতুর্যুগের তৃতীয় যুগ। এই যুগে মহাভারতের ঘটনা ঘটেছে।",
+        "chapters": "১",
+        "verses": "সারাংশ",
+        "significance": "কলিযুগের আগে একটি সংক্রমণ পর্ব"
+      }
+    },
+    "videoLinks": {
+      "en": "https://youtu.be/FES8YqJco2Y",
+      "hi": "https://youtu.be/L2L3c1gZL5A",
+      "or": "https://youtu.be/q78gCkw7FbM",
+      "bn": "https://youtu.be/Cb7Q6NoAoV8"
     }
   }
 ]
